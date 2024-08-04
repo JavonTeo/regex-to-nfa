@@ -1,0 +1,5 @@
+graphviz
+ipython
+matplotlib
+networkx
+pydot
