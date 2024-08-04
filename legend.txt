@@ -1,0 +1,4 @@
+|: ('split', char1, char2)
+concatenation: ('cat', char1, char2)
++: ('repeat', char, 1, inf)
+*: ('repeat', char, 0, inf)
